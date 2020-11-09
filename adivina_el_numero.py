@@ -5,7 +5,7 @@ def run():
     resp='si'
     while(resp!='no'):
     
-        intentos=5
+        intentos=4
     
         nmr_aleatorio=random.randint(1,100)
         nmr_elegido=int(input("elige un numero del 1 al 100: \n"))
